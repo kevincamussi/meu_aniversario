@@ -2,7 +2,6 @@
   "name": "meu_aniversario",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build":"parcel build src/index.html",
     "parcel": "parcel src/styles/*.scss src/index.html src/scripts/main.js",
